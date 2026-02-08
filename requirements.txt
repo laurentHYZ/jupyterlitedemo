@@ -16,6 +16,10 @@ jupyterlab-language-pack-zh-CN
 # P5 kernel (optional)
 jupyterlite-p5-kernel==0.1.0
 
+# AI Support (New)
+# Provides AI code completions and chat [1]
+jupyterlite-ai
+
 # JupyterLab: Fasta file renderer (optional)
 jupyterlab-fasta>=3.3.0,<4
 # JupyterLab: Geojson file renderer (optional)
@@ -39,6 +43,7 @@ ipycanvas>=0.9.1
 # Python: ipyleaflet library for Jupyter notebooks (optional)
 ipyleaflet
 
-# Python: plotting libraries (optional)
+# Python: AI and plotting libraries (Updated)
+litellm
 plotly>=6,<7
 bqplot
