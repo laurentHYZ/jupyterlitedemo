@@ -45,5 +45,6 @@ ipyleaflet
 
 # Python: AI and plotting libraries (Updated)
 litellm
+streamlit
 plotly>=6,<7
 bqplot
